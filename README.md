@@ -1,3 +1,3 @@
-# Student--BE-Final
+# Git demo
 This is my first git 
 Author - Tanishka 
